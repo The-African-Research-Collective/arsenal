@@ -157,7 +157,7 @@ function setup_authorized_keys() {
 
 function setup_user_env() {
     local username="$1"
-    local userdir="$2"      # e.g., /mnt/data/alice
+    local userdir="$2"      # e.g., /mnt/data/eniyansoro
     local shell_profile
 
     local homedir
